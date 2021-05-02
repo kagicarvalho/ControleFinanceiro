@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mlh0VAcsm6DxAqQ5JNAXznY7OXfj8tWxfVdtjLrtF65rdIeCVIZ/2r0C0AqRZZWcoRjNDsrZ7oAZJCTWJkGQTA==",
+  "dgSpecHash": "+Orgb//wRs6+V23JE+uGvC/76gLIyw/99SrygcRvRT55Htok6BlNUmEEwcMN+OsvpTwJe3uOsgvzrm/9TrkwMQ==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Infra\\ControleFinanceiro.Infra.csproj",
+  "projectFilePath": "c:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Infra\\ControleFinanceiro.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kagic\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kagic\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

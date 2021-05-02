@@ -4,6 +4,21 @@ namespace ControleFinanceiro.Entities.Models
 {
     public class Cartao
     {
+        public Cartao()
+        { }
+
+        public Cartao(int cartaoId, string nome, string bandeira, string numero, double limite, string usuarioId, Usuario usuario, ICollection<Despesa> despesas)
+        {
+            CartaoId = cartaoId;
+            Nome = nome;
+            Bandeira = bandeira;
+            Numero = numero;
+            Limite = limite;
+            UsuarioId = usuarioId;
+            Usuario = usuario;
+            Despesas = despesas;
+        }
+
         public int CartaoId { get; set; }
 
         public string Nome { get; set; }

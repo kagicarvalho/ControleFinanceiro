@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\ControleFinanceiro.Entities.csproj": {}
+    "c:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\ControleFinanceiro.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\ControleFinanceiro.Entities.csproj": {
+    "c:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\ControleFinanceiro.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\ControleFinanceiro.Entities.csproj",
+        "projectUniqueName": "c:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\ControleFinanceiro.Entities.csproj",
         "projectName": "ControleFinanceiro.Entities",
-        "projectPath": "C:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\ControleFinanceiro.Entities.csproj",
+        "projectPath": "c:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\ControleFinanceiro.Entities.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\obj\\",
+        "outputPath": "c:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

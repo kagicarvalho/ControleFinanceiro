@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SjQNcA7NoVyQD1IWdTdM8+C/+ZxiRitfIkjtYoJq1jEjDeNVQsNK1BeajNZ/d+wTcinKUy1hw2Kc8PDtwjzCzA==",
+  "dgSpecHash": "cmr0jPK13Czdx+09/hZ3wz7+nrPOZZJtiR8kQg1nT7hmtn0ByRs7yKKTQSKUdJ0AtC4RqgUvVZfJmW3wNGTqzg==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Api\\ControleFinanceiro.Api.csproj",
+  "projectFilePath": "c:\\Estudos\\Udemy\\Angular_NetCoreWebApi\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.Api\\ControleFinanceiro.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kagic\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\kagic\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.1.0\\fluentvalidation.aspnetcore.10.1.0.nupkg.sha512",
