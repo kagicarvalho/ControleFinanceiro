@@ -1,0 +1,36 @@
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.deps.json
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ref\ControleFinanceiro.Entities.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.pdb
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.csprojAssemblyReference.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.AssemblyInfoInputs.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.AssemblyInfo.cs
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ref\ControleFinanceiro.Entities.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.pdb
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.deps.json
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ref\ControleFinanceiro.Entities.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.pdb
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.csprojAssemblyReference.cache
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.AssemblyInfoInputs.cache
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.AssemblyInfo.cs
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.csproj.CoreCompileInputs.cache
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ref\ControleFinanceiro.Entities.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.pdb
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.deps.json
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ref\ControleFinanceiro.Entities.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\bin\Debug\net5.0\ControleFinanceiro.Entities.pdb
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.AssemblyInfoInputs.cache
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.AssemblyInfo.cs
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.csproj.CoreCompileInputs.cache
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ref\ControleFinanceiro.Entities.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.pdb
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Entities\obj\Debug\net5.0\ControleFinanceiro.Entities.csprojAssemblyReference.cache

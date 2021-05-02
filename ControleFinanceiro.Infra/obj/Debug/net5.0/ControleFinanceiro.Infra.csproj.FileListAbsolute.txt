@@ -1,0 +1,54 @@
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.deps.json
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.runtimeconfig.json
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.runtimeconfig.dev.json
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ref\ControleFinanceiro.Infra.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.pdb
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Entities.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Entities.pdb
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csprojAssemblyReference.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.AssemblyInfoInputs.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.AssemblyInfo.cs
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csproj.CopyComplete
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ref\ControleFinanceiro.Infra.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.pdb
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.genruntimeconfig.cache
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.deps.json
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.runtimeconfig.json
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.runtimeconfig.dev.json
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ref\ControleFinanceiro.Infra.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.pdb
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Entities.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Entities.pdb
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csprojAssemblyReference.cache
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.AssemblyInfoInputs.cache
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.AssemblyInfo.cs
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csproj.CoreCompileInputs.cache
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csproj.CopyComplete
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ref\ControleFinanceiro.Infra.dll
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.pdb
+D:\Estudos\Udemy\Angular .Net Core e WAPI\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.genruntimeconfig.cache
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csprojAssemblyReference.cache
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.AssemblyInfoInputs.cache
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.AssemblyInfo.cs
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csproj.CoreCompileInputs.cache
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ref\ControleFinanceiro.Infra.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.pdb
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.deps.json
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.runtimeconfig.json
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.runtimeconfig.dev.json
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ref\ControleFinanceiro.Infra.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Infra.pdb
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Entities.dll
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\net5.0\ControleFinanceiro.Entities.pdb
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.csproj.CopyComplete
+C:\Estudos\Udemy\Angular_NetCoreWebApi\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\net5.0\ControleFinanceiro.Infra.genruntimeconfig.cache

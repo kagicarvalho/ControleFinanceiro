@@ -1,0 +1,15 @@
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\netcoreapp3.1\ControleFinanceiro.Entities.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\netcoreapp3.1\ControleFinanceiro.Infra.csprojAssemblyReference.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\netcoreapp3.1\ControleFinanceiro.Infra.AssemblyInfoInputs.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\netcoreapp3.1\ControleFinanceiro.Infra.AssemblyInfo.cs
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\netcoreapp3.1\ControleFinanceiro.Infra.deps.json
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\netcoreapp3.1\ControleFinanceiro.Infra.runtimeconfig.json
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\netcoreapp3.1\ControleFinanceiro.Infra.runtimeconfig.dev.json
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\netcoreapp3.1\ControleFinanceiro.Infra.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\netcoreapp3.1\ControleFinanceiro.Infra.pdb
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\bin\Debug\netcoreapp3.1\ControleFinanceiro.Entities.pdb
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\netcoreapp3.1\ControleFinanceiro.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\netcoreapp3.1\ControleFinanceiro.Infra.csproj.CopyComplete
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\netcoreapp3.1\ControleFinanceiro.Infra.dll
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\netcoreapp3.1\ControleFinanceiro.Infra.pdb
+C:\Users\Kagi\Desktop\Projeto\ControleFinanceiro\ControleFinanceiro.Infra\obj\Debug\netcoreapp3.1\ControleFinanceiro.Infra.genruntimeconfig.cache
